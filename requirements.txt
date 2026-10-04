@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+requests
+tabpfn
+espn-api
+nflreadpy
+polars
+pyarrow
+torch
